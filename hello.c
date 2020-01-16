@@ -14,5 +14,8 @@ int main(void){
 printf("Zander Ziettlow\n");
 printf("Electrical Engineering\n");
 
+printf("Eric Lesiak\n");
+printf("Electrical Engineering\n");
+
 return 0; //Its a statement, that ends with a semi-colon
 }
